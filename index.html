@@ -5,33 +5,158 @@
                 <style>
                         body {
                                 background-color: #29a2e8;
+
                         }
                         h1 {
                                 background-color: orange;
+                                font-family: Webdings;
                         }
                         p {
                                 background-color: #B8CBF6;
+                                font-family: courier;
+                                border: 1px solid powderblue;
+
                         }
+
+                        ul {
+                              list-style-type: none;
+                              margin: 0;
+                              padding: 0;
+                              overflow: hidden;
+                              background-color: #333;
+                          }
+
+                          li {
+                              float: left;
+                          }
+
+                          li a, .dropbtn {
+                              display: inline-block;
+                              color: white;
+                              text-align: center;
+                              padding: 14px 16px;
+                              text-decoration: none;
+                          }
+
+                          li a:hover, .dropdown:hover .dropbtn {
+                              background-color: red;
+                          }
+
+                          li.dropdown {
+                              display: inline-block;
+                          }
+
+                          .dropdown-content {
+                              display: none;
+                              position: absolute;
+                              background-color: #f9f9f9;
+                              min-width: 160px;
+                              box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+                              z-index: 1;
+                          }
+
+                          .dropdown-content a {
+                              color: black;
+                              padding: 12px 16px;
+                              text-decoration: none;
+                              display: block;
+                              text-align: left;
+                          }
+
+                          .dropdown-content a:hover {background-color: #f1f1f1}
+
+                          .dropdown:hover .dropdown-content {
+                              display: block;
+                          }
+
                 </style>
+
+                <!--script>
+                        function allowDrop(ev) {
+                            ev.preventDefault();
+                        }
+
+                        function drag(ev) {
+                            ev.dataTransfer.setData("text", ev.target.id);
+                        }
+
+                        function drop(ev) {
+                            ev.preventDefault();
+                            var data = ev.dataTransfer.getData("text");
+                            ev.target.appendChild(document.getElementById(data));
+                        }
+                </script-->
         </head>
         <body>
-                <h1 align="center">Tanmay's Website</h1>
-               <hr />
-                
-                <p><marquee><font color = "#740928">check out my first android app.</font></marquee></p>
-                <div align='center'>
-                <p>I'd like to invite you to use it. You can download it by clicking the icon below. </p>
-                
+
+
+          <h1 align="left"> <style media="screen">
+
+          </style> TANMAY'S BLOG </h1>
+         <hr />
+
+                <ul>
+                  <li class="dropdown">
+                    <a href="#">Home</a>
+			                 <div class="dropdown-content">
+				                     <a href="https://github.com/tanmaydixit/tanmaydixit.github.io/blob/master/index.html">Website's code </a>
+			                  </div>
+		              </li>
+                  <li  class="dropdown">
+                    <a href="#ins">Inspirations</a>
+                    <div class="dropdown-content">
+                      <a href="https://www.facebook.com/MACBITSGoa/">Mobile App Club</a>
+                      <a href="https://en.wikipedia.org/wiki/Steve_Jobs">Steve Jobs</a>
+                      <a href="https://en.wikipedia.org/wiki/Mark_Zuckerberg">Mark Zuckerberg </a>
+                      <a href="https://www.google.com">Google</a>
+                      <a href="https://www.youtube.com/user/allindiabakchod">AIB</a>
+                      <a href="stackoverflow.com">Stack Overflow</a>
+                    </div>
+
+                  </li>
+                  <li class="dropdown">
+                    <a href="#" class="dropbtn">Get in touch :)</a>
+                    <div class="dropdown-content">
+                      <a href="https://www.facebook.com/tanmaydixit1102"> Facebook </a>
+                      <a href="https://www.github.com/tanmaydixit">GitHub </a>
+                      <a href="https://twitter.com/Tanmay__Dixit">Twitter</a>
+                    </div>
+                  </li>
+                </ul>
+
+                <p> </p>
+               <!--<div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>-->
+
+                <p><marquee><font color = "#740928">check out my android apps.</font></marquee></p>
+                <div align='left'>
+
+                <p> </p>
+                <p>I'd like to invite you to use my hangman android app. You can download it by clicking the icon below. </p>
+
                         <a href="https://raw.githubusercontent.com/tanmaydixit/HangmanGame/master/Tmans%20hangman1.2.apk">
                                 <img src="https://raw.githubusercontent.com/tanmaydixit/HangmanGame/master/app/src/main/res/drawable/hangman.png" alt="download" style="width:256px;height:256px";/>
                         </a>
                         <p>This is the updated version. Do have a look at my <a href="https://github.com/tanmaydixit/HangmanGame/tree/master/app/src/main/java/com/tman/tanmay/hangman2">code</a>.If you have any suggestions or ameliorations do write to me. </p>
                         <p>It's a <strong> 2 player </strong> <u>hangman game</u>. </p>
+
+                        <p> </p>
+
+                        <p>Check out this Diary App(Download by clicking pic)<a href="https://github.com/tanmaydixit/Diary2.0/raw/master/Diary2.2.apk"><img src="https://lh5.ggpht.com/kEvCkfWu-Ijx7beQ4RCNPjZGKcY9vf2XSfHlBvpOjs9CFPTWPFubia_YbYMaW2cJyQDR=w300" alt="download" style="width:256px;height:256px";/>
+                        </a>
+                      </p>
+                        <p>This one has been made by <a href="https://rushi98.github.io">Rushikesh</a> and me.</p>
+                        <p> This is one of our best works till now.Bugs or Hugs, please feel free to contact.</p>
+                        <p> And please do contribute, to the <a href="https://github.com/Rushi98/Diary2"> code </a> </p>
+
+                        <p> </p>
+
 						<p>Also you may check out my <a href="https://raw.githubusercontent.com/tanmaydixit/ToDo-List/master/To%20Do%20List%20App%201.0%20.apk">To-Do List App.</a>This one is a very simple one and is in its intial stages.</p>
-						<p> <a href="https://raw.githubusercontent.com/tanmaydixit/tanmaydixit.github.io/master/Let%20Us%20C%20-%20Yashwant%20Kanetkar%20-%205th%20Edition.pdf">let us c</a> </p>
-                </div>
+            <p>a few books
+						<details><a href="https://raw.githubusercontent.com/tanmaydixit/tanmaydixit.github.io/master/Let%20Us%20C%20-%20Yashwant%20Kanetkar%20-%205th%20Edition.pdf">let us c</a>
+            </details></p>
+            <p> </p>
+            <p> </p>
+            <p>Made by Tanmay Dixit  </p>
+          </div>
 		</body>
 </html>
-        
-
-        
