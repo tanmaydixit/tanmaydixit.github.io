@@ -1,6 +1,4 @@
-# **FANCY WEBSITE NAME**
 
-Hi, this is my website(as if the URL isn't shouting that out). Currently in BITS Pilani,Goa. I am into Android dev, UX designs, and sarcasm.       
 
 ## Projects
 
