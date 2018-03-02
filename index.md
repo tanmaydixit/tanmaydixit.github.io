@@ -1,4 +1,5 @@
 
+# TANMAY's
 
 ## Projects
 
@@ -14,6 +15,9 @@ A Diary App (Android) with [Rushi](http://jogdand.com)
 My hangman android app    
 [Download Apk](https://raw.githubusercontent.com/tanmaydixit/HangmanGame/master/Tmans%20hangman1.2.apk)  
 ![](https://lh3.googleusercontent.com/IYOk8n7mtmcL_UtUUQ_ggpJxjYzJQX2lNMnNLRpWxFZPJSRUfYAhZX6Gi5zBtEIFcd4=w48)    
+Stuff MAC made (I helped in some)  
+[Mobile App Club apps](https://play.google.com/store/apps/developer?id=Mobile+App+Club+-+BITS+Goa)  
+![](https://avatars3.githubusercontent.com/u/6451546?s=48&v=4)
 
 ## Resume 
 
@@ -26,7 +30,7 @@ My hangman android app
 - Consume content
 - Take jokes on me
 
-## **My** Thoughts 
+## **Personal** Thoughts 
 
 - Exciting title 1
 	- Tabs not spaces! 
