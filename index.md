@@ -6,19 +6,16 @@ Hi, this is my website(as if the URL isn't shouting that out). Currently in BITS
 
 NMD ATM Event App (Me and [Rushi](http://jogdand.com))  
 [Play store link](https://play.google.com/store/apps/details?id=com.macbitsgoa.nmd)  
-![image](https://lh3.googleusercontent.com/1ZbW3MM72Eg927m3wW4ECZi4t8jLVydPWt9K2dcs6sUgPNhjV_5DGPC5w4fnjHVUnkU=w300)
-
+![image](https://lh3.googleusercontent.com/1ZbW3MM72Eg927m3wW4ECZi4t8jLVydPWt9K2dcs6sUgPNhjV_5DGPC5w4fnjHVUnkU=w48)
 ZConnect App (I contributed)  
 [Play store link](https://play.google.com/store/apps/details?id=com.zconnect.zutto.zconnect&hl)  
-![image](https://lh3.googleusercontent.com/bb2cw1-8tzoPWCWccBeNEtKTECAu7MEZugEuwBR6PdbBbcCGQ63XFY1bFf0LvShoAYs=w300)
-
+![image](https://lh3.googleusercontent.com/bb2cw1-8tzoPWCWccBeNEtKTECAu7MEZugEuwBR6PdbBbcCGQ63XFY1bFf0LvShoAYs=w48)
 A Diary App (Android) with [Rushi](http://jogdand.com)  
 [Download Apk](https://github.com/tanmaydixit/Diary2.0/raw/master/Diary2.2.apk)  
-![image](https://lh5.ggpht.com/kEvCkfWu-Ijx7beQ4RCNPjZGKcY9vf2XSfHlBvpOjs9CFPTWPFubia_YbYMaW2cJyQDR=w300)
-
+![image](https://lh5.ggpht.com/kEvCkfWu-Ijx7beQ4RCNPjZGKcY9vf2XSfHlBvpOjs9CFPTWPFubia_YbYMaW2cJyQDR=w48)
 My hangman android app    
 [Download Apk](https://raw.githubusercontent.com/tanmaydixit/HangmanGame/master/Tmans%20hangman1.2.apk)  
-![image](https://raw.githubusercontent.com/tanmaydixit/HangmanGame/master/app/src/main/res/drawable/hangman.png)  
+![](https://lh3.googleusercontent.com/IYOk8n7mtmcL_UtUUQ_ggpJxjYzJQX2lNMnNLRpWxFZPJSRUfYAhZX6Gi5zBtEIFcd4=w48)  
 
 ## Resume 
 
