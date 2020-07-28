@@ -51,7 +51,7 @@ Stuff MAC made (I helped in some)
 [td1]: <https://www.github.com/tanmaydixit>
 [td2]: <https://linkedin.com/in/tanmay-dixit-023325128>
 [td3]: <https://www.facebook.com/tanmaydixit1102>
-[td4]: <https://twitter.com/Tanmay__Dixit>
+[td4]: <>
 
 Me  
 ![image](http://www.pngmart.com/files/4/Coder-PNG-Clipart.png)
