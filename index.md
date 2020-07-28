@@ -34,7 +34,7 @@ Stuff MAC made (I helped in some)
 1. [Stack Overflow](https://stackoverflow.com/) - Always has my back
 2. [Google](https://google.com/) - Ob
 3. [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) - Great Guy
-4. [AIB](https://www.youtube.com/user/allindiabakchod) - Funny
+4. [AIB]() - Funny
 5. [Mobile App Club](https://www.facebook.com/MACBITSGoa) - Home   
 
 [My playlist on youtube](https://www.youtube.com/playlist?list=PLgC98Ln8T0Moe0uYIMsAfdngJzDpImgQJ)
@@ -45,13 +45,13 @@ Stuff MAC made (I helped in some)
 [Github][td1]   to inspire   
 [LinkedIn][td2] to hire   
 [Facebook][td3] for attire   
-[Twitter][td4]  for satire   
+   
 
 [td]: <tanmaydixit110298@gmail.com>
 [td1]: <https://www.github.com/tanmaydixit>
 [td2]: <https://linkedin.com/in/tanmay-dixit-023325128>
 [td3]: <https://www.facebook.com/tanmaydixit1102>
-[td4]: <>
+
 
 Me  
 ![image](http://www.pngmart.com/files/4/Coder-PNG-Clipart.png)
